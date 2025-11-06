@@ -39,7 +39,7 @@ require (
 	github.com/bmatcuk/doublestar/v4 v4.8.1
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/cheggaaa/pb/v3 v3.1.7
-	github.com/containerd/containerd/v2 v2.0.3
+	github.com/containerd/containerd/v2 v2.0.7
 	github.com/containerd/platforms v1.0.0-rc.1
 	github.com/distribution/reference v0.6.0
 	github.com/docker/cli v27.5.0+incompatible
@@ -119,13 +119,13 @@ require (
 	github.com/zclconf/go-cty v1.16.2
 	github.com/zclconf/go-cty-yaml v1.1.0
 	go.etcd.io/bbolt v1.4.0
-	golang.org/x/crypto v0.35.0
-	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8 // indirect
-	golang.org/x/mod v0.23.0
-	golang.org/x/net v0.36.0
-	golang.org/x/sync v0.11.0
-	golang.org/x/term v0.29.0
-	golang.org/x/text v0.22.0
+	golang.org/x/crypto v0.40.0
+	golang.org/x/exp v0.0.0-20250711185948-6ae5c78190dc // indirect
+	golang.org/x/mod v0.26.0
+	golang.org/x/net v0.42.0
+	golang.org/x/sync v0.16.0
+	golang.org/x/term v0.33.0
+	golang.org/x/text v0.27.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
 	google.golang.org/protobuf v1.36.5
@@ -385,11 +385,11 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/oauth2 v0.26.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/telemetry v0.0.0-20240522233618-39ace7a40ae7 // indirect
-	golang.org/x/time v0.10.0 // indirect
-	golang.org/x/tools v0.29.0 // indirect
+	golang.org/x/oauth2 v0.30.0 // indirect
+	golang.org/x/sys v0.34.0 // indirect
+	golang.org/x/telemetry v0.0.0-20250710130107-8d8967aff50b // indirect
+	golang.org/x/time v0.12.0 // indirect
+	golang.org/x/tools v0.35.0 // indirect
 	google.golang.org/api v0.218.0 // indirect
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250115164207-1a7da9e5054f // indirect
